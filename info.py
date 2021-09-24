@@ -29,7 +29,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 default_start_msg = """
-**Hi, I'm Jely Been Clone Bot you can call me as Jely Been **
+**Hi, I'm Movie Pisso Auto Filter Bot you can call me as Filter Bot X **
 Here you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.
 """
 START_MSG = environ.get('START_MSG', default_start_msg)
